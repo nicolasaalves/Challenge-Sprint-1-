@@ -50,6 +50,18 @@ Desenvolveremos uma plataforma inteligente com visão computacional capaz de aum
 - MongoDB
 
 ## Justificativa Técnica
+- YOLO — Será utilizado para realizar a detecção em tempo real de EPIs, pessoas e áreas monitoradas através de visão computacional com alta velocidade e precisão.
+
+- TypeScript — Será utilizado no desenvolvimento frontend para garantir maior organização, tipagem e segurança no código da aplicação.
+
+- React — Será utilizado para construir a interface web do sistema, permitindo a criação de dashboards dinâmicos e responsivos.
+
+- Java — Será utilizado no backend da aplicação devido à sua robustez, desempenho e ampla utilização em sistemas corporativos.
+
+- Spring Boot — Será utilizado para acelerar o desenvolvimento da API backend, facilitando a criação de serviços escaláveis e integrados ao sistema.
+
+- MongoDB — Será utilizado para armazenar dados das ocorrências e monitoramentos de forma flexível, permitindo alta escalabilidade e desempenho no tratamento das informações.
+
 
 
 
