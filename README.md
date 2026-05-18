@@ -18,12 +18,19 @@ O conjunto de tarefas exigido no sprint 1 está totalmente centralizado no Board
 ## Como Acessar
 
 1. Acesse o repositório pelo Link:
+
 https://github.com/nicolasaalves/Challenge-Sprint-1-.git
+
 2. Acesse o arquivo:
+
 Dentro do repositório acesse o arquivo do Board. Se preferir clique no link abaixo:
+
 https://github.com/nicolasaalves/Challenge-Sprint-1-/blob/main/Board%20do%20Miro%20(Documenta%C3%A7%C3%A3o)
+
 3. Acesse o Board
+
 Dentro do arquivo, copie o link do Board presente na linha 5 e cole no navegador. Se preferir clique no link abaixo:
+
 https://miro.com/app/board/uXjVHSW8hZM=/?share_link_id=406580406700
 
 
