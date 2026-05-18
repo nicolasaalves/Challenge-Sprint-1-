@@ -62,6 +62,18 @@ Desenvolveremos uma plataforma inteligente com visão computacional capaz de aum
 
 - MongoDB — Será utilizado para armazenar dados das ocorrências e monitoramentos de forma flexível, permitindo alta escalabilidade e desempenho no tratamento das informações.
 
+# Diagramas
+
+![Diagrama UML](<img width="1536" height="1024" alt="Diagrama UML" src="https://github.com/user-attachments/assets/47dc8020-5ce6-46af-b4b4-0aaa8aca68bf" />
+)
+
+
+![Diagrama de Atividades](<img width="1019" height="794" alt="image" src="https://github.com/user-attachments/assets/f3f99091-1fbb-4713-adb1-57f437c69052" />
+)
+
+
+![Diagrama de Classes](<img width="1536" height="1024" alt="Diagrama de Classes" src="https://github.com/user-attachments/assets/25ae4445-6cd5-43ae-bfac-08711b23504e" />
+)
 
 
 
