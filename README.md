@@ -64,15 +64,15 @@ Desenvolveremos uma plataforma inteligente com visão computacional capaz de aum
 
 # Diagramas
 
-![Diagrama UML](<img width="1536" height="1024" alt="Diagrama UML" src="https://github.com/user-attachments/assets/47dc8020-5ce6-46af-b4b4-0aaa8aca68bf" />
+![Diagrama UML]([<img width="1536" height="1024" alt="Diagrama UML" src="https://github.com/user-attachments/assets/47dc8020-5ce6-46af-b4b4-0aaa8aca68bf" />](https://github.com/nicolasaalves/Challenge-Sprint-1-/blob/main/Diagrama%20UML.png)
 )
 
 
-![Diagrama de Atividades](<img width="1019" height="794" alt="image" src="https://github.com/user-attachments/assets/f3f99091-1fbb-4713-adb1-57f437c69052" />
+![Diagrama de Atividades]([<img width="1019" height="794" alt="image" src="https://github.com/user-attachments/assets/f3f99091-1fbb-4713-adb1-57f437c69052" />](https://github.com/nicolasaalves/Challenge-Sprint-1-/blob/main/Diagrama%20De%20Atividades.jpg)
 )
 
 
-![Diagrama de Classes](<img width="1536" height="1024" alt="Diagrama de Classes" src="https://github.com/user-attachments/assets/25ae4445-6cd5-43ae-bfac-08711b23504e" />
+![Diagrama de Classes]([<img width="1536" height="1024" alt="Diagrama de Classes" src="https://github.com/user-attachments/assets/25ae4445-6cd5-43ae-bfac-08711b23504e" />](https://github.com/nicolasaalves/Challenge-Sprint-1-/blob/main/Diagrama%20de%20Classes.png)
 )
 
 
