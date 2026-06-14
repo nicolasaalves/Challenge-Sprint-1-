@@ -103,7 +103,18 @@ Desenvolveremos uma plataforma inteligente com visão computacional capaz de aum
 O protótipo navegável do projeto ORIZON pode ser acessado através do link abaixo:
 
 🔗 **Link do Protótipo:**  
-[INSERIR LINK DO FIGMA]
+https://www.figma.com/proto/E0uhpSqotpuIogDY8sc4hl/Orizon---Site-design?node-id=0-1&t=5apz6BKiMfd5hNAL-1
+
+---
+
+## 🖥️ Melhor Visualização
+
+Para uma melhor experiência durante a navegação no protótipo, recomenda-se:
+
+1. Clicar no modo **Tela Cheia (Full Screen)** do Figma.
+2. Utilizar a opção **"Ajustar à Largura" (Fit Width)** para que as telas ocupem corretamente o espaço disponível.
+
+Essas configurações garantem uma visualização mais próxima da experiência planejada para o sistema ORIZON.
 
 ---
 
