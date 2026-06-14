@@ -85,7 +85,7 @@ Desenvolveremos uma plataforma inteligente com visão computacional capaz de aum
 
 - MongoDB — Será utilizado para armazenar dados das ocorrências e monitoramentos de forma flexível, permitindo alta escalabilidade e desempenho no tratamento das informações.
 
-# Diagramas
+## Diagramas
 
 ![Diagrama UML]([<img width="1536" height="1024" alt="Diagrama UML" src="https://github.com/user-attachments/assets/47dc8020-5ce6-46af-b4b4-0aaa8aca68bf" />](https://github.com/nicolasaalves/Challenge-Sprint-1-/blob/main/Diagrama%20UML.png)
 )
@@ -97,6 +97,60 @@ Desenvolveremos uma plataforma inteligente com visão computacional capaz de aum
 
 ![Diagrama de Classes]([<img width="1536" height="1024" alt="Diagrama de Classes" src="https://github.com/user-attachments/assets/25ae4445-6cd5-43ae-bfac-08711b23504e" />](https://github.com/nicolasaalves/Challenge-Sprint-1-/blob/main/Diagrama%20de%20Classes.png)
 )
+
+## 🎨 Protótipo
+
+O protótipo navegável do projeto ORIZON pode ser acessado através do link abaixo:
+
+🔗 **Link do Protótipo:**  
+[INSERIR LINK DO FIGMA]
+
+---
+
+## 📖 Instruções de Navegação
+
+### 1. Acesso ao Sistema
+
+Na tela inicial, clique no botão **"Login"** para acessar o sistema.
+
+> Não é necessário preencher informações de usuário ou senha nesta versão do protótipo.
+
+---
+
+### 2. Painel do Técnico de Segurança
+
+Após o login, o usuário será direcionado para o **Painel do Técnico de Segurança**.
+
+Nesta área é possível navegar entre as funcionalidades utilizando o menu lateral esquerdo:
+
+- 🚨 Alertas
+- 🦺 Cadastro de EPI
+- ⚙️ Cadastro de Máquinas
+
+Algumas telas possuem conteúdo adicional que pode ser visualizado utilizando o **scroll vertical**.
+
+---
+
+### 3. Painel do Supervisor
+
+Para acessar o perfil do Supervisor, clique no logotipo **ORIZON** localizado no canto superior esquerdo da interface.
+
+Nesta área é possível navegar entre as funcionalidades utilizando o menu lateral esquerdo.
+
+---
+
+## ⚠️ Observações
+
+- O protótipo foi desenvolvido para demonstrar os principais fluxos do sistema.
+- Os botões internos das telas não possuem funcionalidades implementadas nesta versão.
+- A navegação ocorre exclusivamente pelos menus laterais e pelos acessos entre os perfis.
+- O foco do protótipo é apresentar a interface e a experiência de navegação da solução proposta.
+
+---
+
+## 🖼️ Visão Geral das Telas
+
+<img width="10839" height="1863" alt="Image" src="https://github.com/user-attachments/assets/751e70fe-311b-4de4-974b-f5bcca82a637" />
 
 
 
