@@ -112,13 +112,17 @@ https://www.figma.com/proto/E0uhpSqotpuIogDY8sc4hl/Orizon---Site-design?node-id=
 
 ### Mudanças no protótipo
 
+<img width="1600" height="778" alt="Image" src="https://github.com/user-attachments/assets/b44d655c-531b-4164-b266-7347900c3516" />
+
+<img width="1600" height="776" alt="Image" src="https://github.com/user-attachments/assets/9eaddb99-5832-4d97-a359-9b8240df18a6" />
+
 ### Justificativa das alterações nas telas
 
 Durante a Sprint 3, a equipe realizou alterações em duas telas do sistema ORIZON: a tela de Alertas do Sistema e o Dashboard do Supervisor. As mudanças foram realizadas a partir da evolução da proposta do sistema e da percepção da equipe durante o desenvolvimento.
 
 #### 1. Tela de Alertas do Sistema
 
-![Tela de Alertas do Sistema](docs/imagens/tela-alertas.png)
+<img width="1600" height="776" alt="Image" src="https://github.com/user-attachments/assets/9eaddb99-5832-4d97-a359-9b8240df18a6" />
 
 Na versão anterior da tela de alertas, cada ocorrência possuía um botão **"Resolver"**, além dos indicadores de "Alertas" e "Resolvidos Hoje". Durante a evolução do projeto, a equipe percebeu que essa abordagem não estava totalmente alinhada à proposta do ORIZON, pois o objetivo principal do sistema é **identificar e comunicar situações de risco**, e não atribuir ao Técnico de Segurança a função de simplesmente "resolver" uma ocorrência por meio da interface.
 
@@ -130,7 +134,7 @@ Com essa alteração, a equipe buscou tornar a função da tela mais coerente co
 
 #### 2. Dashboard do Supervisor
 
-![Dashboard do Supervisor](docs/imagens/dashboard-supervisor.png)
+<img width="1600" height="778" alt="Image" src="https://github.com/user-attachments/assets/b44d655c-531b-4164-b266-7347900c3516" />
 
 O Dashboard do Supervisor também passou por uma alteração durante a Sprint 3. Na versão anterior, os gráficos utilizados apresentavam as informações de uma maneira que, na avaliação da equipe, dificultava uma interpretação rápida dos dados.
 
