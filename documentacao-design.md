@@ -123,7 +123,7 @@ Apresentar ocorrências identificadas automaticamente pela visão computacional.
 
 ### Protótipo
 
-<img width="1440" height="991" alt="Image" src="https://github.com/user-attachments/assets/0be9aac3-ca27-4ea7-a1c7-a5fdf8898d4a" />
+<img width="1600" height="776" alt="Image" src="https://github.com/user-attachments/assets/9eaddb99-5832-4d97-a359-9b8240df18a6" />
 
 ---
 
@@ -141,7 +141,7 @@ Disponibilizar indicadores e métricas para acompanhamento da segurança industr
 
 ### Protótipo
 
-<img width="1440" height="1524" alt="Image" src="https://github.com/user-attachments/assets/beef8968-e5a2-4ea9-a88e-71a04e7d26d0" />
+<img width="1600" height="778" alt="Image" src="https://github.com/user-attachments/assets/b44d655c-531b-4164-b266-7347900c3516" />
 
 ---
 
