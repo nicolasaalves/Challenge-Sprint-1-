@@ -108,7 +108,7 @@ Desenvolveremos uma plataforma inteligente com visão computacional capaz de aum
 O protótipo navegável do projeto ORIZON pode ser acessado através do link abaixo:
 
 🔗 **Link do Protótipo:**  
-https://www.figma.com/proto/E0uhpSqotpuIogDY8sc4hl/Orizon---Site-design?node-id=0-1&t=5apz6BKiMfd5hNAL-1
+https://www.figma.com/design/E0uhpSqotpuIogDY8sc4hl/Orizon---Site-design?node-id=0-1&t=0z4qw1A5hUroho3X-1
 
 ### Mudanças no protótipo
 
