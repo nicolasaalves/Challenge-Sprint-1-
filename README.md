@@ -33,6 +33,11 @@ Dentro do arquivo, copie o link do Board presente na linha 5 e cole no navegador
 
 https://miro.com/app/board/uXjVHSW8hZM=/?share_link_id=406580406700
 
+### Outros Links
+
+1. Acessar Board do Trello
+
+https://trello.com/invite/b/6aadb6f3b8c5f543b2a47c79/ATTIa6df6088ecd87e7dfb8c1e91d657936c8F5C5D44/challenge-sprint-spi-x-fiap
 
 # O projeto
 
@@ -104,6 +109,37 @@ O protótipo navegável do projeto ORIZON pode ser acessado através do link aba
 
 🔗 **Link do Protótipo:**  
 https://www.figma.com/proto/E0uhpSqotpuIogDY8sc4hl/Orizon---Site-design?node-id=0-1&t=5apz6BKiMfd5hNAL-1
+
+### Mudanças no protótipo
+
+### Justificativa das alterações nas telas
+
+Durante a Sprint 3, a equipe realizou alterações em duas telas do sistema ORIZON: a tela de Alertas do Sistema e o Dashboard do Supervisor. As mudanças foram realizadas a partir da evolução da proposta do sistema e da percepção da equipe durante o desenvolvimento.
+
+#### 1. Tela de Alertas do Sistema
+
+![Tela de Alertas do Sistema](docs/imagens/tela-alertas.png)
+
+Na versão anterior da tela de alertas, cada ocorrência possuía um botão **"Resolver"**, além dos indicadores de "Alertas" e "Resolvidos Hoje". Durante a evolução do projeto, a equipe percebeu que essa abordagem não estava totalmente alinhada à proposta do ORIZON, pois o objetivo principal do sistema é **identificar e comunicar situações de risco**, e não atribuir ao Técnico de Segurança a função de simplesmente "resolver" uma ocorrência por meio da interface.
+
+Por isso, a tela foi modificada para apresentar uma distinção entre **alertas críticos** e **alertas informativos**. Os alertas críticos representam situações de maior gravidade, nas quais a máquina pode ser interrompida como medida de segurança para evitar acidentes. Já os alertas informativos têm a finalidade de comunicar situações que precisam ser acompanhadas, mas que não necessariamente exigem a interrupção da operação, como situações relacionadas à ergonomia.
+
+Com essa alteração, a equipe buscou tornar a função da tela mais coerente com o funcionamento proposto para o ORIZON, permitindo que o Técnico de Segurança identifique rapidamente a **natureza e a prioridade dos alertas**, em vez de tratar todas as ocorrências como situações que precisam ser "resolvidas" diretamente pelo sistema.
+
+---
+
+#### 2. Dashboard do Supervisor
+
+![Dashboard do Supervisor](docs/imagens/dashboard-supervisor.png)
+
+O Dashboard do Supervisor também passou por uma alteração durante a Sprint 3. Na versão anterior, os gráficos utilizados apresentavam as informações de uma maneira que, na avaliação da equipe, dificultava uma interpretação rápida dos dados.
+
+A equipe decidiu então substituir as visualizações anteriores por informações mais objetivas e diretamente relacionadas ao monitoramento da segurança. A nova versão apresenta um indicador de **conformidade**, um gráfico de **conformidade por zonas** e um gráfico de **ocorrências**, além da área de infrações recentes.
+
+O objetivo da mudança foi permitir que o Supervisor consiga **identificar rapidamente a situação da operação ao acessar o painel**, entendendo de forma mais direta se as áreas monitoradas apresentam um nível adequado de conformidade e quais situações de ocorrência estão sendo registradas.
+
+O gráfico de barras de **conformidade por zonas** permite comparar as diferentes áreas monitoradas, enquanto o gráfico de **ocorrências** apresenta de forma visual a proporção entre as situações identificadas. Dessa forma, as informações ficam mais fáceis de interpretar em uma primeira visualização, reduzindo a necessidade de analisar individualmente os dados para compreender a situação geral.
+
 
 ---
 
